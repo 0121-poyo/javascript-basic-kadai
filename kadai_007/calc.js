@@ -13,7 +13,7 @@ else if (num % 3 == 0) {
 else if (num % 5 == 0) {
     console.log("5の倍数です");
 }
-// それ以外のときは、「はずれです」という文字列を出力する
+// それ以外のときは、"num"を出力
 else {
     console.log(num);
 }
